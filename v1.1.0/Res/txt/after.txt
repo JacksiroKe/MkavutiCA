@@ -1,0 +1,10 @@
+This is the Desktop version of the vSongBook Application currently available for Android and Windows Phone and soon to be available for iPhone.
+
+Using this application requires that you support the developer by reporting any malfunction or abnormal behaviour of this program via means of;
+    a) email to jaksiro@gmail.com
+	b) call, text, whatsapp to +254 711 47 47 87
+
+When complaining always include the following information:
+	i)   Your First and Last Name
+	ii)  Your Church (and Country if you are not from Kenya)
+	iii) Short description of the issue.

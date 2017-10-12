@@ -1,0 +1,176 @@
+END-USER LICENSE AGREEMENT FOR MKAVUTI
+
+NOTICE TO USER: CAREFULLY READ THE FOLLOWING LEGAL AGREEMENT. 
+BY INSTALLING THIS SOFTWARE YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either 
+an individual or a single entity) and the developer (Jackson Siro) for the SOFTWARE(s) 
+identified above, which includes any associated SOFTWARE components, any media, 
+any printed materials, and any "online" or electronic documentation ("SOFTWARE").  
+By installing, copying, or otherwise using the SOFTWARE, you agree to be bound by 
+the terms of this EULA. If you do not agree to the terms of this EULA, do not install 
+or use the SOFTWARE.
+
+1. LICENSE GRANT.
+
+Jackson Siro grants you a limited, non-exclusive, non-transferable, royalty-free license 
+to use the executable code of the SOFTWARE on your computer as long as the terms 
+of this agreement are respected. "Use" means storing, loading, installing, executing 
+or displaying the SOFTWARE.
+You may not modify the SOFTWARE or disable any licensing or control features of 
+the SOFTWARE except as an intended part of the SOFTWARE's programming features. 
+This license is not transferable to any other hardware product or other company, 
+entity, or individual. 
+
+This SOFTWARE is being distributed as freeware. Use within the scope of this license 
+is free of charge and no royalty or licensing fees shall be payable by you.
+Evaluate its usefulness and functionality before making a purchase of the FULL version
+that is available for sale on our website.
+
+Any use of the SOFTWARE which is illegal under international or local law is 
+forbidden by this licence. Any such action is the sole responsibility of the person
+committing the action.
+
+2. TRANSFERRING or BROADCASTING COPYRIGHTED MATERIAL.  
+
+Copying, distributing or broadcasting copyrighted files (e.g. broadcasting music
+through internet) may violate United States and foreign copyright laws. 
+Compliance with the copyright law remains your responsibility. Users who infringe 
+on copyrights may be held liable by the copyright owner. 
+If Jackson Siro becomes aware that you are using his products to infringe on copyrights 
+owned by others, we will discontinue your account in accordance with the Digital 
+Millennium Copyright Act.
+
+3. RESTRICTIONS.      
+
+You agree that you will not attempt to reverse compile, modify, adapt, copy, emulate, 
+clone, disassemble the SOFTWARE in whole or in part, or otherwise attempt to discover 
+the source code of the SOFTWARE (except and solely to the extent an applicable 
+statute expressly and specifically prohibhis such restrictions).
+You may not sublicense, rent, lease, resell for profit or otherwise dispose of 
+the SOFTWARE without our written permission. You may not grant a security interest in, 
+or otherwise transfer rights to the SOFTWARE.  You may not remove any proprietary 
+notices or labels on the SOFTWARE.
+Usage of the SOFTWARE may violate the copyright of the modified material. It is your 
+responsibility to respect all legal aspects. You don't have the right to release 
+to public any programs which were altered using the SOFTWARE, if not expressively 
+granted by the respective authors.
+You may not use the SOFTWARE to perform any unauthorized transfer of information
+(e.g. transfer of files in violation of a copyright) or for any illegal purpose.
+
+4. SEVERABILITY. 
+
+In the event of invalidity of any provision of this license, the parties agree that 
+such invalidity shall not affect the validity of the remaining portions of this license.
+
+5. NO LIABILITY FOR CONSEQUENTIAL DAMAGES. 
+
+IN NO EVENT SHALL JACKSON SIRO OR ITS SUPPLIERS BE LIABLE TO YOU FOR ANY 
+CONSEQUENTIAL, SPECIAL, INCIDENTAL OR INDIRECT DAMAGES OF ANY KIND 
+ARISING OUT OF THE DELIVERY, PERFORMANCE OR USE OF THE SOFTWARE, 
+EVEN IF JACKSON SIRO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+IN NO EVENT WILL JACKSON SIRO'S LIABILITY FOR ANY CLAIM, WHETHER IN CONTRACT, 
+TORT OR ANY OTHER THEORY OF LIABILITY, EXCEED THE LICENSE FEE PAID 
+BY YOU, IF ANY. JACKSON SIRO SHALL HAVE NO OBLIGATION TO YOU WITH RESPECT TO 
+ANY CLAIM OF INFRINGEMENT BASED UPON YOUR USE OF THE SOFTWARE IN 
+COMBINATION, OPERATION OR OTHERWISE WITH THE DATA OR MATERIALS NOT SUPPLIED BY Jackson Siro.
+
+6. COPYRIGHT. 
+
+The SOFTWARE is protected by copyright laws and international
+treaty provisions. You acknowledge that no title to the intellectual property in
+the SOFTWARE is transferred to you. You further acknowledge that title and full
+ownership rights to the SOFTWARE will remain the exclusive property of the Jackson Siro 
+and you will not acquire any rights to the SOFTWARE except as expressly set forth 
+in this license. You agree that any copies of the SOFTWARE will contain the same 
+proprietary notices which appear on and in the SOFTWARE.
+
+7. DISCLAIMER OF WARRANTY.
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE PROVIDED ON AN "AS IS"
+BASIS AND YOU ASSUME FULL RESPONSIBILITY FOR DETERMINING THE 
+SUITABILITY OF THE PROGRAM AND FOR RESULTS OBTAINED. JACKSON SIRO DISCLAIMS 
+ALL WARRANTIES RELATING TO THIS SOFTWARE, WHETHER EXPRESSED OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, 
+FREE OF DEFECTS, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT 
+OF THIRD PARTY RIGHTS. NEITHER JACKSON SIRO NOR ANYONE ELSE WHO HAS BEEN 
+INVOLVED IN THE CREATION, PRODUCTION, OR DELIVERY OF THIS SOFTWARE 
+SHALL BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, OR INCIDENTAL 
+DAMAGES (INCLUDING, WITHOUT LIMITATIONS, DAMAGES FOR LOSS OF BUSINESS 
+PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, DATA LOSS, 
+OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO 
+USE SUCH SOFTWARE, EVEN IF JACKSON SIRO HAS BEEN ADVISED OF THE POSSIBILITY OF 
+SUCH DAMAGES OR CLAIMS. THE PERSON USING THE SOFTWARE BEARS ALL RISK 
+AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE. SHOULD THE SOFTWARE 
+PROVE DEFECTIVE IN ANY RESPECT, YOU AND NOT JACKSON SIRO OR ITS SUPPLIERS ASSUME 
+THE ENTIRE COST OF ANY SERVICE AND REPAIR.
+
+SOME JURISDICTIONS DO NOT ALLOW LIMITATION OR EXCLUSION OF INCIDENTAL 
+OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSION MAY 
+NOT APPLY TO YOU TO THE EXTENT THAT LIABILITY IS BY LAW INCAPABLE OF 
+EXCLUSION OR RESTRICTION.
+
+IN NO EVENT SHALL ANY THEORY OF LIABILITY EXCEED THE LICENSE FEE PAID TO Jackson Siro.
+
+8. DIGITAL RIGHTS MANAGEMENT.
+
+Content providers are using the Microsoft digital rights management technology
+for Windows Media distributed with this software ("WM-DRM") to protect the 
+integrity of their content ("Secure Content") so that their intellectual property, 
+including copyright, in such content is not misappropriated.  Portions of this 
+software and other 3rd party applications use WM-DRM to play Secure Content 
+("WM-DRM Software"). If the WM-DRM Software's security has been compromised, 
+owners of Secure Content ("Secure Content Owners") may request that Microsoft 
+revoke the WM-DRM Software's right to copy, display and/or play Secure Content. 
+Revocation does not alter the WM-DRM Software's ability to play unprotected 
+content. A list of revoked WM-DRM Software is sent to your computer whenever 
+you download a license for Secure Content from the Internet.  Microsoft may, 
+in conjunction with such license, also download revocation lists onto your 
+computer on behalf of Secure Content Owners. Secure Content Owners may also 
+require you to upgrade some of the WM-DRM components distributed with this 
+software ("WM-DRM Upgrades") before accessing their content. When you attempt 
+to play such content, WM-DRM Software built by Microsoft will notify you that 
+a WM-DRM Upgrade is required and then ask for your consent before the WM-DRM 
+Upgrade is downloaded. Non-Microsoft WM-DRM Software may do the same. If you 
+decline the upgrade, you will not be able to access content that requires the 
+WM-DRM Upgrade; however, you will still be able to access unprotected content 
+and Secure Content that does not require the upgrade. WM-DRM features that 
+access the Internet, such as acquiring new licenses and/or performing a required 
+WM-DRM Upgrade, can be switched off. When these features are switched off, 
+you will still be able to play Secure Content if you have a valid license for 
+such content already stored on your computer.
+
+9. DISTRIBUTION.  
+
+You are hereby not licensed to make copies of the SOFTWARE as you wish without involving Jackson Siro; 
+once he is aware you can give exact copies of the original SOFTWARE to anyone; you may also distribute the
+SOFTWARE in its unmodified form via electronic means (Internet, BBS's, Shareware
+distribution libraries, CD-ROMs, etc.). You may charge a distribution fee for
+the package, but you must not represent in any way that you are selling the
+SOFTWARE itself. Your distribution of the SOFTWARE will not entitle you to any
+compensation from Jackson Siro. You must distribute a copy of this EULA with any copy 
+of the SOFTWARE and anyone to whom you distribute the SOFTWARE is subject to 
+this EULA.
+
+10. TERMINATION. 
+
+This Agreement and the license granted hereunder will terminate automatically 
+if you fail to comply with the limitations described herein. 
+Upon termination, you must destroy all copies of the SOFTWARE and documentation.
+
+11. RESERVED RIGHTS.
+
+All rights not expressly granted here are reserved to Jackson Siro and/or the respective 
+authors (listed either in the documentation or within the SOFTWARE).
+Jackson Siro reserves the right to make exceptions to any of these conditions, or alter 
+these conditions, at any time. However, you may always use these conditions 
+instead of any altered version if you prefer (note that this licence explicitly 
+applies only to one version of the program; therefore, if Jackson Siro makes new
+conditions in connection with a future version, you do not then have the right 
+to apply these conditions to that version instead).
+
+12. MISCELLANEOUS. 
+
+Should you have any questions concerning this EULA, or if you
+desire to contact Jackson Siro for any reason, please contact by electronic mail at: 
+smataweb@gmail.com

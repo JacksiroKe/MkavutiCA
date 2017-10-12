@@ -1,0 +1,9 @@
+This is the Desktop version of the vSongBook Application currently available for Android and Windows Phone and soon to be available for iPhone.
+
+Using this application assumes a number of conditions fulfilled by you as the user such as that:
+	1. You have already installed Microsoft .NET framework on your computer.
+	2. You have already installed Microsoft Office package on your computer.
+	3. You are have either interacted with programs like Microsoft PowerPoint or Visual Songbook.
+	4. You know what you expect from this software.
+	5. Your computer has at least 40 MB set aside for this software.
+	6. You are not going install this software to their usual Program Files folder - for the sake of using this software smoothly you are advised to install vSongBook to a custom folder (location) of your choice.
